@@ -1,0 +1,7 @@
+C:\Users\asus\Source\repos\Algorithm Concepts Assignment 2\Algorithm Concepts Assignment 2\obj\Debug\Algorithm Concepts Assignment 2.csprojAssemblyReference.cache
+C:\Users\asus\Source\repos\Algorithm Concepts Assignment 2\Algorithm Concepts Assignment 2\obj\Debug\Algorithm Concepts Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\asus\Source\repos\Algorithm Concepts Assignment 2\Algorithm Concepts Assignment 2\bin\Debug\Algorithm Concepts Assignment 2.exe.config
+C:\Users\asus\Source\repos\Algorithm Concepts Assignment 2\Algorithm Concepts Assignment 2\bin\Debug\Algorithm Concepts Assignment 2.exe
+C:\Users\asus\Source\repos\Algorithm Concepts Assignment 2\Algorithm Concepts Assignment 2\bin\Debug\Algorithm Concepts Assignment 2.pdb
+C:\Users\asus\Source\repos\Algorithm Concepts Assignment 2\Algorithm Concepts Assignment 2\obj\Debug\Algorithm Concepts Assignment 2.exe
+C:\Users\asus\Source\repos\Algorithm Concepts Assignment 2\Algorithm Concepts Assignment 2\obj\Debug\Algorithm Concepts Assignment 2.pdb
